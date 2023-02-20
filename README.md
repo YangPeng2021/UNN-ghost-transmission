@@ -3,7 +3,7 @@ The code for generating random amplitude-only patterns with untrained neural net
 
 # Requirements: 
 
-Anaconda; Pytorch 1.7.1
+Anaconda 3; Pytorch 1.7.1
 
 # Command:
 
