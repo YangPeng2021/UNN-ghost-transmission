@@ -1,4 +1,4 @@
-# unn-transmission
+# UNN-transmission
 The code for generating random amplitude-only patterns with untrained neural network. The signal to be transmitted can be encoded into these generated patterns.
 
 # Requirements: 
