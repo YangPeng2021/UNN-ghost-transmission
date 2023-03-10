@@ -1,6 +1,6 @@
 # Ghost transmission using physics-driven untrained neural network
 
-Pytorch implementation of paper: High-fidelity and high-robustness free-space ghost transmission in complex media with coherent light source using physics-driven untrained neural network. The data of six analog signals and three images used in the experiments are provided.
+Pytorch implementation of paper: High-fidelity and high-robustness free-space ghost transmission in complex media with coherent light source using physics-driven untrained neural network. The data of six analog signals (Folder: signal_mat) and three images (Folder: image_mat) used in the experiments are provided.
 
 # Requirements: 
 
