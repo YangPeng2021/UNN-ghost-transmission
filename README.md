@@ -4,7 +4,7 @@ Pytorch implementation of paper: High-fidelity and high-robustness free-space gh
 
 # Requirements: 
 
-> Anaconda 4.10.1; Python 3.8.13; Pytorch 1.7.0; cuda
+> Anaconda 4.10.1; Python 3.8.13; Pytorch 1.7.0.
 
 # How to use:
 
@@ -16,7 +16,7 @@ conda activate unnTrans
 
 Step 2: download the required packages
 ```
-conda install pytorch==1.7.0 torchvision==0.8.0 torchaudio==0.7.0 cudatoolkit=11.0 -c pytorch
+conda install pytorch==1.7.0 torchvision==0.8.0 torchaudio==0.7.0 cudatoolkit=11.0 -c pytorch (cuda version should be chosen according to your GPU.)
 conda install jupyter
 pip install matplotlib
 pip install scikit-image
