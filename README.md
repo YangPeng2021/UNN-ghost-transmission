@@ -4,7 +4,7 @@ Pytorch implementation of paper: High-fidelity and high-robustness free-space gh
 
 # Requirements: 
 
-> Anaconda 4.10.1; Python 3.8.13; Pytorch 1.7.1
+> Anaconda 4.10.1; Python 3.8.13; Pytorch 1.7.1; cuda
 
 # How to use:
 
